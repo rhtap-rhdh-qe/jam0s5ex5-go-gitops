@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: jam0s5ex5-go-gitops-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/jam0s5ex5-go-gitops
